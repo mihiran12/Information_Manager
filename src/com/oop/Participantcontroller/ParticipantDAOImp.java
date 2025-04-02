@@ -11,6 +11,7 @@ import java.util.List;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
+
 public class ParticipantDAOImp implements ParticipantDAO {
 
     private final Component parentComponent;
